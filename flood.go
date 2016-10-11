@@ -9,7 +9,7 @@ import (
 
 func main() {
 	var pin string
-	var nickname string
+	var IG-lowkey_lurkin string
 	var numNames string
 	fmt.Print("Enter game pin: ")
 	fmt.Scanln(&pin)
